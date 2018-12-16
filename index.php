@@ -1,6 +1,6 @@
 <?php
 
-echo "opaopa"
+echo "tamo ai, filhao"
 
 
 ?>
